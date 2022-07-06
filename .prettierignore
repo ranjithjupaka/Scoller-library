@@ -1,8 +1,0 @@
-node_modules
-package.json
-img
-.env
-.*
-README.md
-LICENSE
-yarn.lock
